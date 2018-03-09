@@ -6,9 +6,9 @@ class Show < ActiveRecord::Base
   def build_network(network)
   end
 
-  def network
-  end
-
-  def call_letters
-  end
+  # def network
+  # end
+  #
+  # def call_letters
+  # end
 end
