@@ -8,6 +8,6 @@ class Show < ActiveRecord::Base
   def network
   end
 
-  def self.call_letters
+  def call_letters
   end
 end
