@@ -4,7 +4,7 @@ class Show < ActiveRecord::Base
   belongs_to :network
 
   def build_network(call_letters)
-    binding.pry
+    # binding.pry
   end
 
   # def network
