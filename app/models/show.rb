@@ -7,4 +7,8 @@ class Show < ActiveRecord::Base
 
   def network
   end
+
+  def call_letters
+  end
+  
 end
